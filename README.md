@@ -3,4 +3,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=fangruijia&show_icons=true&hide_title=true&count_private=true"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fangruijia&layout=compact"/>
 
 ## Profile Views
-![](https://moe-counter.glitch.me/get/@fangruijia.github.readme)
+![:name](https://count.getloli.com/get/@:fangruijia?theme=rule34)
